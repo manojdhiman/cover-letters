@@ -1,0 +1,52 @@
+Dear Hiring Manager,
+
+My name is manoj Kumar and I am an expert in web development.I am new on the upwork but i am an experianced web developer having 5 years of experiance in development.I 
+
+would love to have the opportunity to discuss your project with you.
+
+I guarantee high quality work, quick answers on your messages and responsibility.
+
+My skills are an excellent fit for your project. I have a good grasp of working with CMS & php frameworks, I would be easily able to achieve the task.
+
+I have created a couple of projects on yii frameworks
+1) Goals app : In this user can signup(as user/judge/guest/coach) and add their goals,tasks. Visitors can search goals and add them into their profile. Then the task 
+
+for the day from goal will display on their profile on daily basis.User can skip or mark as done the tasks. 
+
+Application uses the two way real time chat system developed in Socket.io, real time notifications system , Fully dynamic admin panel to manage everything.
+
+Also user can add payment methods on their profile(papal)  to order the products if applicable on the task.
+Due to NDA i can't share the url on up-work . But we can discuss in detail about this project.
+
+I have experience in the following languages.
+HTML
+PHP
+CSS
+Javascript
+jquery
+ajax
+
+And the following cms/frameworks
+WordPress
+magento
+drupal
+yii
+cake php
+codeigniter
+
+
+I belive communication is the key to any successful project, and I'd like to start things off on the right foot but suggesting we schedule a phone or skype call to 
+
+discuss the project further. This will enable us to make sure we communicate well and that both parties are completely comforatable with the scope of the project. 
+
+Please let me know a time that works best for you and I will make sure that I make myself available. 
+
+
+If you give me this opportunity, this would be my first project in upwork, so I would be really grateful if you could give me this opportunity.
+
+Thank you for your time and consideration. 
+
+
+Sincerely,
+
+Manoj Kumar
